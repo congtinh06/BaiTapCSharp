@@ -17,7 +17,7 @@ Repository lưu trữ các bài thực hành (Lab) của môn **Ngôn ngữ lậ
 | Lab03 | LINQ cơ bản (cá nhân) | Hoàn thành |
 | Lab04 | Lập trình WinForm cơ bản | Hoàn thành |
 | Lab05 | Lập trình WinForm nâng cao | Hoàn thành |
-
+| Lab06 | Tương tác CSDL Cơ bản | Hoàn thành |
 ## Cách chạy
 
 1. Clone repository:
